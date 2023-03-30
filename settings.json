@@ -28,7 +28,7 @@
       "enabled": true,
       "sneak": false,
       "jump": true,
-      "rotate": false,
+      "rotate": true,
 
       "hit": {
         "enabled": true,
